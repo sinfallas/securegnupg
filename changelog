@@ -1,4 +1,10 @@
-commit 8a28b7ea237953835d1947e3073b85bc567f74e1 (HEAD, origin/master, origin/HEAD, master)
+commit 86a2468eb0ef9a56a9a9ededf6a66ed0af5fd985 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Apr 1 19:23:11 2016 -0430
+
+    * changelog
+
+commit 8a28b7ea237953835d1947e3073b85bc567f74e1
 Author: jose perez <sinfallas@gmail.com>
 Date:   Fri Apr 1 19:22:36 2016 -0430
 
