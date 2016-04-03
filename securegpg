@@ -3,6 +3,11 @@
 # Licence: GPL-2
 LC_ALL=C
 
+if [[ "$EUID" = "0" ]]; then
+	echo -e "\e[00;31mERROR: No debe ser root.\e[00m"
+	exit 1
+fi
+
 if ! [[ -f $HOME/.gnupg/gpg.conf.old ]]; then
 	mv -f $HOME/.gnupg/gpg.conf $HOME/.gnupg/gpg.conf.old
 	echo "keyserver hkp://keys.gnupg.net" > $HOME/.gnupg/gpg.conf
