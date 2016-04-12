@@ -1,4 +1,16 @@
-commit e0a33482ed3e6011b6ace79c16464905426627ad (HEAD, origin/master, origin/HEAD, master)
+commit 1ca8333aab4cd27d0781b7ffa71c9973e89f7325 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Apr 11 20:30:39 2016 -0430
+
+    * se crea un archivo para enlaces a documentacion
+
+commit 7557f6f14f5114fcb0187238321264ba415151b6
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Apr 5 13:22:37 2016 -0430
+
+    * changelog
+
+commit e0a33482ed3e6011b6ace79c16464905426627ad
 Author: jose perez <sinfallas@gmail.com>
 Date:   Tue Apr 5 13:22:16 2016 -0430
 
