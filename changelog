@@ -1,4 +1,16 @@
-commit 1ca8333aab4cd27d0781b7ffa71c9973e89f7325 (HEAD, origin/master, origin/HEAD, master)
+commit 84b8e2a68907545bf4786c0bd203c9d06a0de215 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Jan 28 00:50:27 2017 -0400
+
+    * se corrige un error al crear la copia de seguridad del archivo de configuracion
+
+commit 0c477bd1ce66127213e10cd65625603ed93ac59c
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Apr 11 20:31:05 2016 -0430
+
+    * changelog
+
+commit 1ca8333aab4cd27d0781b7ffa71c9973e89f7325
 Author: jose perez <sinfallas@gmail.com>
 Date:   Mon Apr 11 20:30:39 2016 -0430
 
