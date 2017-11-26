@@ -1,4 +1,16 @@
-commit 981955298327f078f709fb8e09924f4d5f1c6913 (HEAD, origin/master, origin/HEAD, master)
+commit 3ee58f0935dd3cdfd77d12b74c974baca847dffe (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Nov 26 13:41:47 2017 -0400
+
+    * se agrega la funcion instalar
+
+commit d5e6332c6e704d1bbbf6fc1f54645194e514e05c
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Jul 16 15:36:20 2017 -0400
+
+    * changelog
+
+commit 981955298327f078f709fb8e09924f4d5f1c6913
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Jul 16 15:36:05 2017 -0400
 
