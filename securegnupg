@@ -36,4 +36,3 @@ if ! [[ -f $HOME/.gnupg/gpg.conf.old ]]; then
 fi
 
 echo "Finalizado..."
-exit 0
